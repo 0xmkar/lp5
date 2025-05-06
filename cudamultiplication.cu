@@ -109,3 +109,22 @@ int main() {
     
     return 0;
 }
+
+
+// Enter matrix size N (NxN): 2
+// Enter matrix A (2x2):
+// A[0][0]: 1
+// A[0][1]: 2
+// A[1][0]: 3
+// A[1][1]: 4
+// Enter matrix B (2x2):
+// B[0][0]: 5
+// B[0][1]: 6
+// B[1][0]: 7
+// B[1][1]: 8
+
+// Result Matrix C:
+// 19 22
+// 43 50
+
+// Matrix multiplication completed in 0.012345 ms

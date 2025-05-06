@@ -50,3 +50,6 @@ int main() {
     printArray(parArr);
     return 0;
 }
+
+// Enter number of elements: 10
+// Enter elements: 38 27 43 3 9 82 10 76 45 23

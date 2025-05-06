@@ -85,3 +85,12 @@ int main() {
     
     return 0;
 }
+
+// Enter the size of the vectors: 5
+// Enter 5 elements for vector A:
+// 1 2 3 4 5
+// Enter 5 elements for vector B:
+// 5 4 3 2 1
+
+// Result (first 10 elements): 6 6 6 6 6 
+// Elapsed Time: 0.012345 ms

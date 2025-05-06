@@ -21,3 +21,7 @@ int main() {
     delete[] data;
     return 0;
 }
+
+// Enter number of elements: 6
+// Enter elements:
+// 12 7 9 21 5 18

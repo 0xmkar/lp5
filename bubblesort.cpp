@@ -38,3 +38,7 @@ int main() {
 
     return 0;
 }
+
+// Enter number of elements: 8
+// Enter elements:
+// 64 34 25 12 22 11 90 88

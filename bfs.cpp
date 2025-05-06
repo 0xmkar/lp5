@@ -47,3 +47,10 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// Enter number of nodes and edges: 4 4
+// Enter edges (u v):
+// Edge 1: 0 1
+// Edge 2: 0 2
+// Edge 3: 1 3
+// Edge 4: 2 3
